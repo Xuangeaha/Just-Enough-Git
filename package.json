@@ -4,6 +4,9 @@
   "displayName": "Just Enough Git",
   "description": "Popular extensions for Git users that provides the functions of viewing git history, git log, git graph, file histories and so on.",
   "version": "0.1",
+  "repository": {
+      "url": "https://github.com/Xuangeaha/Just-Enough-Git.git"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
