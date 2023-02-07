@@ -1,0 +1,24 @@
+{
+  "name": "just-enough-git",
+  "publisher": "XuangeAha",
+  "displayName": "Just Enough Git",
+  "description": "Popular extensions for Git users that provides the functions of viewing git history, git log, git graph, file histories and so on.",
+  "version": "0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "waderyan.gitblame",
+    "felipecaputo.git-project-manager",
+    "vsls-contrib.gitdoc",
+    "McCarter.start-git-bash",
+    "codezombiech.gitignore"
+  ]
+}
