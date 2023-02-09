@@ -6,8 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.0.3 2023-02-09
 
-Add keywords to package.json.
-Add an icon to the pack.
+Add catagories and keywords to package.json.
 
 ## 0.0.2 2023-02-08
 
