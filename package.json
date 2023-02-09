@@ -9,10 +9,13 @@
   "author": {
     "name": "XuangeAha"
   },
-  "homepage": "https://github.com/Xuangeaha/Just-Enough-Git.git",
+  "homepage": "https://github.com/Xuangeaha/Just-Enough-Git",
   "repository": {
-      "url": "https://github.com/Xuangeaha/Just-Enough-Git.git"
+      "url": "https://github.com/Xuangeaha/Just-Enough-Git"
   },
+	"bugs": {
+		"url": "https://github.com/Xuangeaha/Just-Enough-Git/issues"
+	},
   "engines": {
     "vscode": "^1.75.0"
   },
