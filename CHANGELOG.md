@@ -4,6 +4,12 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.1.0 2023-02-09
+
+Redesign the icon.
+
+Update the keywords.
+
 ## 0.0.4 2023-02-09
 
 Add an icon to the pack.
