@@ -9,6 +9,7 @@
   "author": {
     "name": "XuangeAha"
   },
+  "homepage": "https://github.com/Xuangeaha/Just-Enough-Git.git",
   "repository": {
       "url": "https://github.com/Xuangeaha/Just-Enough-Git.git"
   },
@@ -16,7 +17,24 @@
     "vscode": "^1.75.0"
   },
   "categories": [
-    "Extension Packs"
+    "Azure",
+    "Data Science",
+    "Debuggers",
+    "Education",
+    "Formatters",
+    "Keymaps",
+    "Language Packs",
+    "Linters",
+    "Machine Learning",
+    "Notebooks",
+    "Programming Languages",
+    "SCM Providers",
+    "Snippets",
+    "Testing",
+    "Themes",
+    "Visualization",
+    "Extension Packs",
+    "Other"
   ],
   "extensionPack": [ 
     "GitHub.vscode-pull-request-github",
