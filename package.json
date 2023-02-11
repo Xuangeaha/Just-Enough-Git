@@ -3,7 +3,7 @@
   "publisher": "XuangeAha",
   "displayName": "Just Enough Git",
   "description": "Popular extensions for Git users that provides the functions of viewing git history, git log, git graph, file histories and so on.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
@@ -11,11 +11,11 @@
   },
   "homepage": "https://github.com/Xuangeaha/Just-Enough-Git",
   "repository": {
-      "url": "https://github.com/Xuangeaha/Just-Enough-Git"
+    "url": "https://github.com/Xuangeaha/Just-Enough-Git"
   },
-	"bugs": {
-		"url": "https://github.com/Xuangeaha/Just-Enough-Git/issues"
-	},
+  "bugs": {
+    "url": "https://github.com/Xuangeaha/Just-Enough-Git/issues"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
