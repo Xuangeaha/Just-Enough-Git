@@ -4,25 +4,31 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.1.2 2023-02-11
+
+Update the `keywords`.
+
+Optimize README.MD and package.json.
+
 ## 0.1.1 2023-02-11
 
-Add bugs to package.json.
+Add `bugs` to package.json.
 
 Optimize package.json.
 
 ## 0.1.0 2023-02-09
 
-Redesign the icon.
+Redesign the `icon`.
 
-Update the keywords.
+Update the `keywords`.
 
 ## 0.0.4 2023-02-09
 
-Add an icon to the pack.
+Add `icon` to the pack.
 
 ## 0.0.3 2023-02-09
 
-Add catagories and keywords to package.json.
+Add `catagories` and `keywords` to package.json.
 
 ## 0.0.2 2023-02-08
 
