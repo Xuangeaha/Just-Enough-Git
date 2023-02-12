@@ -4,6 +4,10 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.0 2023-02-12
+
+Optimize README.MD.
+
 ## 0.1.2 2023-02-11
 
 Update the `keywords`.
