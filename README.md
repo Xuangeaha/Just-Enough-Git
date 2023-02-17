@@ -108,18 +108,6 @@ Popular extensions for Git users is a collection of popular extensions that will
 
 [https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
 
-### Start git-bash
-
-**ID**: McCarter.start-git-bash
-
-**Discription/说明**: Adds a bash command to VSCode that allows you to start git-bash in the current workspace's root folder.
-
-**Verison/版本**: 1.2.1
-
-**Publisher/发布者**: McCarter
-
-[https://marketplace.visualstudio.com/items?itemName=McCarter.start-git-bash](https://marketplace.visualstudio.com/items?itemName=McCarter.start-git-bash)
-
 ### gitignore
 
 **ID**: codezombiech.gitignore
