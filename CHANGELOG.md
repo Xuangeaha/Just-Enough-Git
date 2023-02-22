@@ -4,6 +4,10 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.0 2023-02-22
+
+Remove extension `Git Project Manager`.
+
 ## 0.2.1 2023-02-17
 
 Remove extension `Start git-bash`.

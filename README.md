@@ -4,7 +4,6 @@ Popular extensions for Git users is a collection of popular extensions that will
 
 为Git用户收集的的流行扩展，它将提高你的Git使用体验，提供查看Git历史、Git日志、Git图标、文件历史等功能。
 
-
 **Homepage/主页**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git)
 
 **Repository/仓库**: [`https://github.com/Xuangeaha/Just-Enough-Git`](https://github.com/Xuangeaha/Just-Enough-Git)
@@ -16,7 +15,6 @@ Popular extensions for Git users is a collection of popular extensions that will
 **License/许可证**: [`https://marketplace.visualstudio.com/items/XuangeAha.just-enough-git/license`](https://marketplace.visualstudio.com/items/XuangeAha.just-enough-git/license)
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git)
-
 
 **Copyright (c) 2023 XuangeAha/轩哥啊哈OvO**
 
@@ -83,18 +81,6 @@ Popular extensions for Git users is a collection of popular extensions that will
 **Publisher/发布者**: Wade Anderson
 
 [https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
-
-### Git Project Manager
-
-**ID**: felipecaputo.git-project-manager
-
-**Discription/说明**: Allows you to change easily between git projects.
-
-**Verison/版本**: 1.8.2
-
-**Publisher/发布者**: Felipe Caputo
-
-[https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 
 ### GitDoc
 
