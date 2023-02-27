@@ -82,18 +82,6 @@ Popular extensions for Git users is a collection of popular extensions that will
 
 [https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
-### GitDoc
-
-**ID**: vsls-contrib.gitdoc
-
-**Discription/说明**: Automatically commit/push/pull changes on save, so you can edit a Git repo like a multi-file, versioned document.
-
-**Verison/版本**: 0.1.0
-
-**Publisher/发布者**: Jonathan Carter
-
-[https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
-
 ### gitignore
 
 **ID**: codezombiech.gitignore

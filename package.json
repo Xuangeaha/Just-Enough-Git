@@ -3,7 +3,7 @@
   "publisher": "XuangeAha",
   "displayName": "Just Enough Git",
   "description": "Popular extensions for Git users that provides the functions of viewing git history, git log, git graph, file histories and so on.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
@@ -45,7 +45,6 @@
     "donjayamanne.githistory",
     "mhutchie.git-graph",
     "waderyan.gitblame",
-    "vsls-contrib.gitdoc",
     "codezombiech.gitignore"
   ],
   "keywords": [
