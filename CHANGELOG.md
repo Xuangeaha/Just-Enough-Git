@@ -4,6 +4,10 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.2 2023-03-02
+
+Optimize `README.MD` and `CHANGELOG.md`.
+
 ## 0.3.1 2023-02-27
 
 Remove extension `GitDoc`.
@@ -18,19 +22,19 @@ Remove extension `Start git-bash`.
 
 ## 0.2.0 2023-02-12
 
-Optimize README.MD.
+Optimize `README.MD`.
 
 ## 0.1.2 2023-02-11
 
 Update the `keywords`.
 
-Optimize README.MD and package.json.
+Optimize `README.MD` and `package.json`.
 
 ## 0.1.1 2023-02-11
 
-Add `bugs` to package.json.
+Add `bugs` to `package.json`.
 
-Optimize package.json.
+Optimize `package.json`.
 
 ## 0.1.0 2023-02-09
 
@@ -44,7 +48,7 @@ Add `icon` to the pack.
 
 ## 0.0.3 2023-02-09
 
-Add `catagories` and `keywords` to package.json.
+Add `catagories` and `keywords` to `package.json`.
 
 ## 0.0.2 2023-02-08
 

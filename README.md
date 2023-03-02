@@ -4,7 +4,7 @@ Popular extensions for Git users is a collection of popular extensions that will
 
 为Git用户收集的的流行扩展，它将提高你的Git使用体验，提供查看Git历史、Git日志、Git图标、文件历史等功能。
 
-**Homepage/主页**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git)
+**Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
 
 **Repository/仓库**: [`https://github.com/Xuangeaha/Just-Enough-Git`](https://github.com/Xuangeaha/Just-Enough-Git)
 
