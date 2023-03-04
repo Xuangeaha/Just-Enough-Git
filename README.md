@@ -1,5 +1,9 @@
 # Just Enough Git
 
+[![Version](https://vsmarketplacebadges.dev/version/xuangeaha.just-enough-git.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git) [![Installs](https://vsmarketplacebadges.dev/installs/xuangeaha.just-enough-git.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git) [![Downloads](https://vsmarketplacebadges.dev/downloads/xuangeaha.just-enough-git.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git) [![Rating Short](https://vsmarketplacebadges.dev/rating-short/xuangeaha.just-enough-git.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git) [![Rating Star](https://vsmarketplacebadges.dev/rating-star/xuangeaha.just-enough-git.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git)
+
+[![TrendingDaily](https://vsmarketplacebadges.dev/trending-daily/xuangeaha.just-enough-git.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git) [![TrendingWeekly](https://vsmarketplacebadges.dev/trending-weekly/xuangeaha.just-enough-git.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git) [![TrendingMonthly](https://vsmarketplacebadges.dev/trending-monthly/xuangeaha.just-enough-git.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-enough-git)
+
 Popular extensions for Git users is a collection of popular extensions that will ease and improve your git flow and experience. It provides the functions of viewing git history, git log, git graph, file histories and so on.
 
 为Git用户收集的的流行扩展，它将提高你的Git使用体验，提供查看Git历史、Git日志、Git图标、文件历史等功能。
@@ -17,8 +21,6 @@ Popular extensions for Git users is a collection of popular extensions that will
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git)
 
 **Copyright (c) 2023 XuangeAha/轩哥啊哈OvO**
-
----
 
 ## Extension List 扩展列表
 

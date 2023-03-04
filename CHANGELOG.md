@@ -4,6 +4,12 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.3 2023-03-03
+
+Optimize `README.MD`.
+
+Redesign the `icon`.
+
 ## 0.3.2 2023-03-02
 
 Optimize `README.MD` and `CHANGELOG.md`.
