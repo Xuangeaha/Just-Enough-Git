@@ -4,13 +4,17 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2023.4.2 2023-03-18
+
+Update `MIT License`.
+
 ## 2023.4.1 2023-03-12
 
 Update `MIT License`.
 
 ## 2023.4.0 2023-03-11
 
-Release version officially release.
+**Release version officially release.**
 
 Update the `keywords`.
 

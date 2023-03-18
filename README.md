@@ -20,7 +20,7 @@ Popular extensions for Git users is a collection of popular extensions that will
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git)
 
-**Copyright (c) 2023 XuangeAha/轩哥啊哈OvO**
+**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
 
 ## Extension List 扩展列表
 
