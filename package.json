@@ -2,8 +2,8 @@
   "name": "just-enough-git",
   "publisher": "XuangeAha",
   "displayName": "Just Enough Git",
-  "description": "Popular extensions for Git users that provides the functions of viewing git history, git log, git graph, file histories and so on.",
-  "version": "2023.4.2",
+  "description": "Popular extensions for Git users that will ease and improve your git flow and experience. It provides the functions of viewing git history, git log, git graph, file histories and so on.",
+  "version": "2023.4.3",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
