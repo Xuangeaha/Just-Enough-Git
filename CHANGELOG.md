@@ -4,6 +4,10 @@ All notable changes to the "just-enough-git" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2023.4.5 2023-05-14
+
+Update `gallaryBanner`.
+
 ## 2023.4.4 2023-05-14
 
 Add `galleryBanner` to the vsmarketplace page.
