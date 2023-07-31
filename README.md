@@ -96,6 +96,18 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 [https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 
+### Git Flow
+
+**ID**: Serhioromano.vscode-gitflow
+
+**Discription/说明**: Git flow support for VS Code
+
+**Verison/版本**: 1.3.22
+
+**Publisher/发布者**: Sergey Romanov
+
+[https://marketplace.visualstudio.com/items?itemName=Serhioromano.vscode-gitflow](https://marketplace.visualstudio.com/items?itemName=Serhioromano.vscode-gitflow)
+
 ---
 
 **Enjoy!**
